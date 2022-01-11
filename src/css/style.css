@@ -64,6 +64,7 @@ h2.title {
     color: #F9BF3B;
     font-family: "Roboto - Bold";
     font-weight: 700;
+    text-transform: uppercase;
 }
 .promo .promo_btn {
     display: block;
