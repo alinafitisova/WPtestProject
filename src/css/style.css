@@ -275,6 +275,17 @@ h2.title {
     line-height: 21px;
     color: #888888;
 }
+.footer_link:hover {
+    color: #fffdfd; 
+}
 .footer_link {
     color: #888888; 
+}
+.phone-number {
+    text-decoration: none;
+
+}
+.phone-number:hover {
+    text-decoration: underline;
+    
 }
